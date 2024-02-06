@@ -11,10 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.Acc in Accounting, Bindura University of Science Education, 2013
-* MicroMasters in Statistics and Data Science, MIT Institute for Data, Systems, and Society (IDSS)
-* M.S. in Information and Finance, National Taipei University of Technology, 2023
+
 * Ph.D in Smart Systems and Automation, National Kaohsiung University of Science and Technology, 2027 (expected)
+* M.S. in Information and Finance, National Taipei University of Technology, 2023
+* MicroMasters in Statistics and Data Science, MIT Institute for Data, Systems, and Society (IDSS)
+
+
 
 Work experience
 ======
