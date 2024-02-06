@@ -1,7 +1,7 @@
 ---
-title: "Data Mining Teaching Assistant"
+title: "Teaching Assistant"
 collection: teaching
-type: "Graduate Course"
+type: "Data Mining"
 permalink: /teaching/2014-spring-teaching-1
 venue: "NKUST, Computer and Information Engineering"
 date: 2023-09-01
