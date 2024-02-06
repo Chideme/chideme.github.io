@@ -11,30 +11,29 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Acc in Accounting, Bindura University of Science Education, 2013
+* MicroMasters in Statistics and Data Science, MIT Institute for Data, Systems, and Society (IDSS)
+* M.S. in Information and Finance, National Taipei University of Technology, 2023
+* Ph.D in Smart Systems and Automation, National Kaohsiung University of Science and Technology, 2027 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2023-Current: Student Researcher
+  * National Kaohsiung University of Science and Technology
+  * Duties included: Conducting research and publishing research finding on the development and optimisation of smart systems and automation solutions.
+  * Supervisor: Professor Chun-Hao Chen
 
-* Fall 2015: Research Assistant
-  * Github University
+* Fall 2020: Teaching Assistant
+  * National Kaohsiung University of Science and Technology
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Professor Chun-Hao Chen
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* Git
+* Research and Commninication
+* Latex
 
 Publications
 ======
