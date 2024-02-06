@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal website! I am a passionate and driven individual with a diverse background in information technology, finance management, and data science. Currently, I am pursuing a Ph.D. in electronic engineering, specializing in smart systems and automation. My research interests lie at the intersection of IoT, data analytics, and control systems, where I aim to enhance efficiency, productivity, and decision-making processes in various domains, such as finance. Through my work, I strive to contribute to the evolution of smart technologies and their applications in diverse fields
+Welcome to my personal website! I am a passionate and driven individual with a diverse background in information technology, finance management, and data science. Currently, I am pursuing a Ph.D. in electronic engineering at National Kaohsiung University of Science and Technology, specializing in smart systems and automation. My research interests lie at the intersection of IoT, data analytics, and control systems, where I aim to enhance efficiency, productivity, and decision-making processes in various domains, such as finance. Through my work, I strive to contribute to the evolution of smart technologies and their applications in diverse fields
 
 My Research
 ======
-In my Ph.D. journey,I am excited to delve deeper into the development and optimization of intelligent systems. My research interests lie at the nexus of IoT, data analytics, and control systems, where I aim to enhance efficiency, productivity, and decision-making processes across diverse domains..
+In my Ph.D. journey,I am excited to delve deeper into the development and optimization of intelligent systems. My research interests lie at the nexus of IoT, data analytics, and control systems, where I aim to enhance efficiency, productivity, and decision-making processes across diverse domains.
 
 
 My Background
