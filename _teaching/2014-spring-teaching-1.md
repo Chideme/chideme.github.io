@@ -1,5 +1,5 @@
 ---
-title: "DataminTeaching Assistant"
+title: "Data Mining Teaching Assistant"
 collection: teaching
 type: "Graduate Course"
 permalink: /teaching/2014-spring-teaching-1
