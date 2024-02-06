@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Kudakwashe Chideme"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Kudakwashe Chideme"
 description              : &description "personal description"
 url                      : https://chideme.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -85,7 +85,7 @@ author:
   bio              : "Ph.D. student in electronic engineering exploring Smart Systems and Automation for Enhanced Efficiency and Decision-Making"
   location         : "Kaohsiung, Taiwan"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=EHgXw80AAAAJ&hl=en"
   email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
