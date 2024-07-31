@@ -12,7 +12,7 @@ Welcome to my personal website! I am a passionate and driven individual with a m
 
 My Research
 ======
- My research interests are in trustworthiness of data driven systems and efficiency of ML systems. 
+ My research interests are in genetic algorithms and optimization of financial systems. 
 
 
 My Background
