@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 
-* Ph.D, Department of Electronic Engineering (Computer Science and Information Engineering Group), National Kaohsiung University of Science and Technology, 2027 (expected)
+* Ph.D, Computer Science and Information Engineering, National Kaohsiung University of Science and Technology, 2027 (expected)
 * Master of Science in Information and Finance, National Taipei University of Technology, 2023
 * MicroMasters in Statistics and Data Science, MIT Institute for Data, Systems, and Society (IDSS)
 
@@ -20,7 +20,7 @@ Education
 
 Work experience
 ======
-* 2023-Current: Student Researcher
+* 2023-Current: Research Assistant
   * National Kaohsiung University of Science and Technology
   * Duties included: Conducting research and publishing research finding on the development and optimisation of smart systems and automation solutions.
   * Supervisor: Professor Chun-Hao Chen
