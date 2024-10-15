@@ -12,7 +12,7 @@ Welcome to my personal website! I am a passionate and driven individual with a m
 
 My Research
 ======
- My research interests are at the intersection of machine learning and finance. 
+ Working on improving the efficiency of evolutionary algorithms, with a particular focus on enhancing algorithmic performance for financial data and real-time trading systems. 
 
 
 My Background
