@@ -3,7 +3,7 @@ title: " Island Genetic Algorithm with Diverse Migration Strategies for Efficien
 collection: publications
 permalink: /publication/island_gga
 excerpt: ''
-date: 2015-11-01
+date: 2025-11-01
 venue: 'Engineering Optimization'
 paperurl: 'https://doi.org/10.1080/0305215X.2025.2592030'
 
